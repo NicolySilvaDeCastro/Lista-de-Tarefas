@@ -1,0 +1,18 @@
+*{background-color:rgb(255, 255, 255);
+    background-image: url("public/postits.jpeg");
+}
+h1{
+    border: 10px;
+    border-radius: 10px;
+    background-color: bisque;
+    width: 300px;
+}
+.center{
+    border: 10px;
+    border-radius: 10px;
+    background-color: bisque;
+    width: 300px;
+} 
+/* .center {
+        background-image: url("public/postit.jpeg");
+   } */
